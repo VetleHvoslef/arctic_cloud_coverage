@@ -1,0 +1,13 @@
+name: arctic_cloud_coverage
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - matplotlib
+  - intake
+  - xarray
+  - numpy
+  - cartopy
+
