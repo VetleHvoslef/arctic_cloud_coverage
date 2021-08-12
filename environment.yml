@@ -6,7 +6,7 @@ channels:
 
 dependencies:
   - matplotlib
-  - intake
+  - intake-esm
   - xarray
   - numpy
   - cartopy
